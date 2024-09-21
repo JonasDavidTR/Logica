@@ -1,0 +1,97 @@
+Lógica de Programação
+
+1. Dado o tamanho da base e da altura de um retângulo, calcular a sua área e o seu perímetro.
+2. Dado o tamanho do lado de um quadrado, calcular a área e o perímetro do mesmo.
+3. Dado o tamanho do raio de uma circunferência, calcular a área e o perímetro da mesma.
+4. Dado os três lados de um triângulo, determinar o perímetro do mesmo.
+5. Ler um número inteiro e exibir o seu sucessor.
+6. Ler dois números inteiros e exibir o quociente e o resto da divisão inteira entre eles.
+7. Solicitar a idade de uma pessoa em dias e informar na tela a idade em anos, meses e dias.
+8. Converter um valor de temperatura em Fahrenheit para Celsius.
+9. Calcular o volume de uma lata de óleo, dado seu raio e sua altura.
+10. Converter um inteiro menor que 32 para sua representação em binário.
+11. Calcular a média aritmética entre duas notas bimestrais de um aluno.
+12. Transformar uma velocidade fornecida em m/s para km/h.
+13. Calcular a resistência equivalente de um circuito composto por três resistências.
+14. Informar o tempo para abrir semáforos sincronizados de acordo com a distância entre eles.
+15. Calcular a altura de um prédio utilizando o tamanho de sua sombra e a sua altura.
+16. Inverter um número de três algarismos.
+17. Gerenciar os saques de um caixa eletrônico e decidir a distribuição de notas.
+18. Permutar o valor de duas variáveis inteiras.
+19. Calcular a raiz de uma equação do primeiro grau.
+20. Informar o valor de entrada e prestações de uma compra parcelada.
+21. Exibir se um número é positivo ou negativo.
+22. Exibir o módulo de um número.
+23. Informar se um número é par ou ímpar.
+24. Informar o maior entre três números.
+25. Informar a quantidade de dias de um mês baseado em seu número.
+26. Somar os dois maiores valores entre três números.
+27. Calcular a média ponderada de três números.
+28. Verificar se uma letra é vogal ou consoante.
+29. Calcular o desconto previdenciário de um funcionário.
+30. Calcular o valor a ser pago por combustíveis com desconto baseado no volume vendido.
+31. Calcular o desempenho de um quarterback no Futebol Americano.
+32. Verificar se um caractere é vogal, consoante, número ou símbolo.
+33. Determinar o quadrante de um ponto no plano cartesiano.
+34. Avaliar a viabilidade de um empréstimo baseado na renda e prestações solicitadas.
+35. Exibir o dia da semana baseado em um número de 1 a 7.
+36. Classificar um aluno em uma certificação com base em suas notas.
+37. Calcular o custo de pulverização de lavouras com desconto baseado no tipo de praga.
+38. Verificar se um ano é bissexto.
+39. Calcular o dígito verificador de uma agência bancária utilizando o método módulo 11.
+40. Mostrar um número de 1 a 100 por extenso.
+41. Imprimir todos os números de 1 a 100.
+42. Imprimir todos os números de 100 a 1 em ordem decrescente.
+43. Imprimir todos os números pares de 1 a 100.
+44. Imprimir todos os números de 1 a 100 e a soma de todos eles.
+45. Calcular a média de cinco números.
+46. Calcular o quociente de dois números utilizando subtrações sucessivas.
+47. Calcular o resto da divisão de dois números utilizando subtrações sucessivas.
+48. Verificar se um número é primo.
+49. Gerar todas as combinações possíveis de lançamentos de dois dados que somem um número lido.
+50. Gerar a sequência de Fibonacci até o N-ésimo termo.
+51. Gerar a sequência de FETUCCINE com base em dois termos iniciais fornecidos pelo usuário.
+52. Calcular o tempo necessário para a população de um país ultrapassar a de outro.
+53. Verificar se um número é triangular.
+54. Verificar se dois números são amigos.
+55. Verificar se um número é perfeito.
+56. Calcular o valor de uma série S para N termos.
+57. Calcular o valor aproximado de π usando os N primeiros termos de uma série.
+58. Calcular o número de Euler usando os N primeiros termos de uma série de Taylor.
+59. Verificar a Conjectura de Goldbach para números pares entre 500 e 1000.
+60. Criar e inicializar um array de 20 posições com zeros.
+61. Contar quantos números pares existem em um array de 10 posições.
+62. Somar os elementos de dois vetores de números reais.
+63. Encontrar o menor e o maior valor de um array de 20 inteiros.
+64. Copiar o conteúdo de um vetor para outro e imprimi-lo.
+65. Copiar os maiores valores entre dois vetores para um terceiro vetor.
+66. Informar o dia com maior e menor índice pluviométrico.
+67. Informar quantas vezes um valor aparece em um vetor.
+68. Carregar um array com tamanho variável.
+69. Buscar a primeira ocorrência de um número em um vetor ordenado.
+70. Calcular a moda, mediana e média de um array de 20 inteiros.
+71. Implementar um algoritmo para operações de inserção e remoção em um vetor.
+72. Ordenar um array de 15 posições utilizando o método bubble sort.
+73. Contar o número de vogais em uma string.
+74. Inverter uma string.
+75. Contar o número de ocorrências de um caractere em uma string.
+76. Gerar uma substring de uma string original.
+77. Verificar se uma string contém outra.
+78. Normalizar uma string removendo espaços excedentes.
+79. Imprimir a maior palavra de uma string normalizada.
+80. Verificar se uma string normalizada é palíndrome.
+81. Converter um número hexadecimal em decimal.
+82. Converter um número romano em decimal.
+83. Verificar se duas strings são iguais, ignorando maiúsculas e minúsculas.
+84. Colocar uma string em caixa alta.
+85. Gerar uma string composta pelo último nome e iniciais de uma string original.
+86. Separar vogais e consoantes de uma string em duas partes.
+87. Preencher uma matriz e calcular a soma das linhas e colunas.
+88. Verificar se uma matriz é simétrica.
+89. Calcular a soma da diagonal principal e secundária de uma matriz.
+90. Multiplicar uma matriz por um valor lido.
+91. Linearizar uma matriz em um vetor.
+92. Somar duas matrizes.
+93. Trocar linhas e colunas de uma matriz.
+94. Calcular o produto de duas matrizes.
+95. Verificar se uma matriz forma um quadrado latino.
