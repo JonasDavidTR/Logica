@@ -1,15 +1,14 @@
 // 10. Converter um inteiro menor que 32 para sua representação em binário.
 
-const binario = new Array()
-let r = 0
-function converteBinario(num) {
-    if(num <= 32) {
-        let r = num % 2
-        // r.push()
-        // while(true) {
-        // }
+function inteiroParaBinario(num) {
+    let binario = ""
+    while (num > 0) {
+        let resto = num % 2
+        binario = resto + binario
+        num = (num - resto) / 2
     }
-    console.log(r)
+    return binario || "0"
 }
 
-converteBinario(32)
+let numero = 18
+console.log(inteiroParaBinario(numero))
