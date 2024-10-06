@@ -6,6 +6,7 @@ function inteiroParaBinario(num) {
         let resto = num % 2
         binario = resto + binario
         num = (num - resto) / 2
+        console.log(binario)
     }
     return binario || "0"
 }
