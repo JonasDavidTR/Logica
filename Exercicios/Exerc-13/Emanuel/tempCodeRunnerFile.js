@@ -1,0 +1,1 @@
+reqSerie(resistencias)
